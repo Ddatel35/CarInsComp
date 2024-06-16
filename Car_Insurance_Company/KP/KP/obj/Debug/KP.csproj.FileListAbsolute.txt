@@ -1,0 +1,210 @@
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\bin\Debug\KP.exe.config
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\bin\Debug\KP.exe
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\bin\Debug\KP.pdb
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.dll
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.xml
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\MainWindow.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\View\WindowContract.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\App.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP_Content.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP_MarkupCompile.cache
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP_MarkupCompile.lref
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\MainWindow.baml
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\View\WindowContract.baml
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.g.resources
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.CopyComplete
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.exe
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\KP.pdb
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\View\WindowUser.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\View\WindowUser.baml
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddUser.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddUser.baml
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditUser.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditUser.baml
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddContract.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddContract.baml
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditContract.g.cs
+C:\Users\Артем\Desktop\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditContract.baml
+G:\KPFEDENYUK\KP\KP\bin\Debug\KP.exe.config
+G:\KPFEDENYUK\KP\KP\bin\Debug\KP.exe
+G:\KPFEDENYUK\KP\KP\bin\Debug\KP.pdb
+G:\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.dll
+G:\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.SqlServer.dll
+G:\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.xml
+G:\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.SqlServer.xml
+G:\KPFEDENYUK\KP\KP\bin\Debug\ru\EntityFramework.resources.dll
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.SuggestedBindingRedirects.cache
+G:\KPFEDENYUK\KP\KP\obj\Debug\MainWindow.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddContract.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddUser.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditContract.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditUser.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\View\WindowContract.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\View\WindowUser.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\App.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP_Content.g.cs
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP_MarkupCompile.cache
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP_MarkupCompile.lref
+G:\KPFEDENYUK\KP\KP\obj\Debug\MainWindow.baml
+G:\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddContract.baml
+G:\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddUser.baml
+G:\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditContract.baml
+G:\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditUser.baml
+G:\KPFEDENYUK\KP\KP\obj\Debug\View\WindowContract.baml
+G:\KPFEDENYUK\KP\KP\obj\Debug\View\WindowUser.baml
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.g.resources
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.Properties.Resources.resources
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.CopyComplete
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.exe
+G:\KPFEDENYUK\KP\KP\obj\Debug\KP.pdb
+E:\KPFEDENYUK\KP\KP\bin\Debug\KP.exe.config
+E:\KPFEDENYUK\KP\KP\bin\Debug\KP.exe
+E:\KPFEDENYUK\KP\KP\bin\Debug\KP.pdb
+E:\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.dll
+E:\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.SqlServer.dll
+E:\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.xml
+E:\KPFEDENYUK\KP\KP\bin\Debug\EntityFramework.SqlServer.xml
+E:\KPFEDENYUK\KP\KP\bin\Debug\ru\EntityFramework.resources.dll
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.SuggestedBindingRedirects.cache
+E:\KPFEDENYUK\KP\KP\obj\Debug\MainWindow.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddContract.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddUser.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditContract.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditUser.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\View\WindowContract.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\View\WindowUser.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\App.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP_Content.g.cs
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP_MarkupCompile.cache
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP_MarkupCompile.lref
+E:\KPFEDENYUK\KP\KP\obj\Debug\MainWindow.baml
+E:\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddContract.baml
+E:\KPFEDENYUK\KP\KP\obj\Debug\ViewAdd\AddUser.baml
+E:\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditContract.baml
+E:\KPFEDENYUK\KP\KP\obj\Debug\ViewEdit\EditUser.baml
+E:\KPFEDENYUK\KP\KP\obj\Debug\View\WindowContract.baml
+E:\KPFEDENYUK\KP\KP\obj\Debug\View\WindowUser.baml
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.g.resources
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.Properties.Resources.resources
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.csproj.CopyComplete
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.exe
+E:\KPFEDENYUK\KP\KP\obj\Debug\KP.pdb
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\MainWindow.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\ViewAdd\AddContract.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\ViewAdd\AddUser.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\ViewEdit\EditContract.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\ViewEdit\EditUser.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\View\WindowContract.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\View\WindowUser.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP_Content.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP_MarkupCompile.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP_MarkupCompile.lref
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.exe
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.pdb
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\bin\Debug\KP.exe.config
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\bin\Debug\KP.exe
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\bin\Debug\KP.pdb
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\bin\Debug\EntityFramework.dll
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\MainWindow.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\ViewAdd\AddContract.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\ViewAdd\AddUser.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\ViewEdit\EditContract.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\ViewEdit\EditUser.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\View\WindowContract.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\View\WindowUser.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.g.resources
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\с флешки\KP\KP\obj\Debug\KP.csproj.CopyComplete
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\bin\Debug\KP.exe.config
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\bin\Debug\KP.exe
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\bin\Debug\KP.pdb
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\bin\Debug\EntityFramework.dll
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\MainWindow.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\ViewAdd\AddContract.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\ViewAdd\AddUser.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\ViewEdit\EditContract.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\ViewEdit\EditUser.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\View\WindowContract.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\View\WindowUser.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP_Content.g.cs
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP_MarkupCompile.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP_MarkupCompile.lref
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\MainWindow.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\ViewAdd\AddContract.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\ViewAdd\AddUser.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\ViewEdit\EditContract.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\ViewEdit\EditUser.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\View\WindowContract.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\View\WindowUser.baml
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.g.resources
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.csproj.CopyComplete
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.exe
+C:\Users\shume\Desktop\Feden\KPFEDENYUK\Диплом приложение\KP\KP\obj\Debug\KP.pdb
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\bin\Debug\KP.exe.config
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\bin\Debug\KP.exe
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\bin\Debug\KP.pdb
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\bin\Debug\EntityFramework.dll
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\MainWindow.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\ViewAdd\AddContract.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\ViewAdd\AddUser.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\ViewEdit\EditContract.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\ViewEdit\EditUser.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\View\WindowContract.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\View\WindowUser.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP_Content.g.cs
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP_MarkupCompile.cache
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP_MarkupCompile.lref
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\MainWindow.baml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\ViewAdd\AddContract.baml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\ViewAdd\AddUser.baml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\ViewEdit\EditContract.baml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\ViewEdit\EditUser.baml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\View\WindowContract.baml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\View\WindowUser.baml
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.g.resources
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.csproj.CopyComplete
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.exe
+C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.pdb
