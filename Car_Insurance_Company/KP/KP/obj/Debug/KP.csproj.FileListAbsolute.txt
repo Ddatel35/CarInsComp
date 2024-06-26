@@ -208,3 +208,38 @@ C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\K
 C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.csproj.CopyComplete
 C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.exe
 C:\Users\shume\Desktop\Feden\Диплом приложение\KP\KP\obj\Debug\KP.pdb
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\bin\Debug\KP.exe.config
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\bin\Debug\KP.exe
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\bin\Debug\KP.pdb
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\bin\Debug\EntityFramework.dll
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\MainWindow.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\ViewAdd\AddContract.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\ViewAdd\AddUser.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\ViewEdit\EditContract.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\ViewEdit\EditUser.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\View\WindowContract.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\View\WindowUser.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP_Content.g.cs
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP_MarkupCompile.cache
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP_MarkupCompile.lref
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\MainWindow.baml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\ViewAdd\AddContract.baml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\ViewAdd\AddUser.baml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\ViewEdit\EditContract.baml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\ViewEdit\EditUser.baml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\View\WindowContract.baml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\View\WindowUser.baml
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.g.resources
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.csproj.CopyComplete
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.exe
+C:\Users\shume\Desktop\Feden\Car_Insurance_Company\KP\KP\obj\Debug\KP.pdb
